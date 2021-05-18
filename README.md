@@ -3,7 +3,7 @@ bio:
 intellectual space monke controlling computer via telepathy. i do really questionnable stuff, so cope. professional procrastinator btw  
 
 MOTD:
-idk  
+idk... 
 
 major project(s):  
 Nebula Bot : hole miner and module manager 
