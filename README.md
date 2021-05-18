@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey there 👋! I'm aesthetic and I like to do random things  
+bio:  
+intellectual space monke controlling computer via telepathy. i do really questionnable stuff, so cope. professional procrastinator btw  
 
-<!--
-**aesthetic0001/aesthetic0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MOTD:
+i am amateur  
 
-Here are some ideas to get you started:
+major project(s):  
+Nebula Bot : hole miner and module manager 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=aesthetic0001)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aesthetic0001&count_private=true)
+
+![cat](https://user-images.githubusercontent.com/15858616/112492863-05455380-8d58-11eb-9c77-a4535d85f49b.gif)
