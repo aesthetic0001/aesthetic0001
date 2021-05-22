@@ -6,7 +6,7 @@ MOTD:
 I would pin Nebula bot but it's priv repo
 
 major project(s):  
-Nebula Bot : hole miner and module manager 
+Nebula Bot : module manager and revamp holeutil 
 
 ![](https://komarev.com/ghpvc/?username=aesthetic0001)
 
