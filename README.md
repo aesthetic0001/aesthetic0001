@@ -10,7 +10,7 @@ Nebula Bot : module manager and revamp holeutil
 
 ![](https://komarev.com/ghpvc/?username=aesthetic0001)
 
-![widget](https://discord.c99.nl/widget/theme-1/575109908169752577.png) 
+![widget](https://discord.c99.nl/widget/theme-2/575109908169752577.png) 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aesthetic0001&count_private=true)
 
