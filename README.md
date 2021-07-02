@@ -3,10 +3,10 @@ bio:
 intellectual space monke controlling computer via telepathy. i do really questionnable stuff, so cope. professional procrastinator btw  
 
 MOTD:
-I would pin Nebula bot but it's priv repo
+pain.  
 
 major project(s):  
-Nebula Bot : module manager and revamp holeutil 
+Nebula Bot : rewriting the entirety of nebula bot so it's better ;)  
 
 ![](https://komarev.com/ghpvc/?username=aesthetic0001)
 
