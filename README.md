@@ -3,10 +3,12 @@ bio:
 intellectual space monke controlling computer via telepathy. i do really questionnable stuff, so cope. professional procrastinator btw  
 
 MOTD:
-pain.  
+Idk anymore. 
 
 major project(s):  
 Nebula Bot : rewriting the entirety of nebula bot so it's better ;)  
+minor project(s):  
+Skyblock Networth : almost done.... 
 
 ![](https://komarev.com/ghpvc/?username=aesthetic0001)
 
