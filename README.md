@@ -3,7 +3,7 @@ bio:
 intellectual space monke controlling computer via telepathy. i do really questionnable stuff, so cope. professional procrastinator btw  
 
 MOTD:
-Idk anymore. 
+no pain no gain 
 
 major project(s):  
 google maps for mc: also almost complete
