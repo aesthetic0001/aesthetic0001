@@ -6,9 +6,7 @@ MOTD:
 Idk anymore. 
 
 major project(s):  
-Nebula Bot : rewriting the entirety of nebula bot so it's better ;)  
-minor project(s):  
-Skyblock Networth : almost done.... 
+google maps for mc: also almost complete
 
 ![](https://komarev.com/ghpvc/?username=aesthetic0001)
 
