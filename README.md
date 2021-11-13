@@ -1,12 +1,12 @@
 ### Hey there 👋! I'm aesthetic and I like to do random things  
-bio:  
-intellectual space monke controlling computer via telepathy. i do really questionnable stuff, so cope. professional procrastinator btw  
+  
 
-MOTD:
-no pain no gain 
+
+
+ 
 
 major project(s):  
-google maps for mc: also almost complete
+google maps for mc: too lazy rn
 
 ![](https://komarev.com/ghpvc/?username=aesthetic0001)
 
