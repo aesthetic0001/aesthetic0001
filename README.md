@@ -6,7 +6,10 @@
  
 
 major project(s):  
-google maps for mc: too lazy rn
+Too lazy to flip: v0.2.0! TODO: Make moulberry's auction api but more stable? idk dunno rn
+
+minor project(s):
+fragbot: should be done soon:tm: once worker threads are implemented 
 
 ![](https://komarev.com/ghpvc/?username=aesthetic0001)
 
