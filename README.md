@@ -2,7 +2,7 @@
   
 #### currently working on:
 
-- hypixel duels & minemen pvp bots  
+- ~~hypixel~~ (hypixel does random bans for no reason) duels & minemen pvp bots  
 - hypixel skyblock macros :>  
 
 ![](https://komarev.com/ghpvc/?username=aesthetic0001)
