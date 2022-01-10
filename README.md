@@ -5,6 +5,7 @@
 - hypixel duels bots (sumibot)  
 
 ![](https://komarev.com/ghpvc/?username=aesthetic0001)
+![](https://img.shields.io/badge/bad%20programmer-yes-success?style=flat-square)
 
 ![widget](https://discord.c99.nl/widget/theme-2/575109908169752577.png) 
 
