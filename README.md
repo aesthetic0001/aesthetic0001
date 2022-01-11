@@ -3,6 +3,7 @@
 #### currently working on:
 
 - hypixel duels bots (sumibot)  
+- lunar spoof  
 
 ![](https://komarev.com/ghpvc/?username=aesthetic0001)
 ![](https://img.shields.io/badge/bad%20programmer-yes-success?style=flat-square)
