@@ -3,6 +3,7 @@
 #### currently working on:
 
 - hypixel duels bots (sumibot)  
+- hypixel auction macro (Auction Master)  
 - ~~lunar spoof~~ done!  
 
 ![](https://komarev.com/ghpvc/?username=aesthetic0001)
