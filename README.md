@@ -4,7 +4,7 @@
 
 - hypixel duels bots (sumibot)  
 - hypixel auction macro (Auction Master)  
-- ~~lunar spoof~~ done!  
+
 
 ![](https://komarev.com/ghpvc/?username=aesthetic0001)
 ![](https://img.shields.io/badge/bad%20programmer-yes-success?style=flat-square)
