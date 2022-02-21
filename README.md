@@ -2,7 +2,7 @@
   
 #### currently working on:
 
-- hypixel duels bots (sumibot)  
+- hypixel duels bots (sumibot) -> being rewritten  
 - hypixel auction macro (Auction Master)  
 
 
