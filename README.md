@@ -3,7 +3,7 @@
 #### currently working on:
 
 - hypixel duels bots (sumibot) -> being rewritten  
-- hypixel auction macro (Auction Master)  
+- hypixel auction flipper (Auction Master)  
 - a replacement for moulberry's ah api (https://auctionmaster-api.herokuapp.com/) 
 
 ![](https://komarev.com/ghpvc/?username=aesthetic0001)
