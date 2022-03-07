@@ -4,7 +4,7 @@
 
 - hypixel duels bots (sumibot) -> being rewritten  
 - hypixel auction flipper (Auction Master)  
-- a replacement for moulberry's ah api (https://auctionmaster-api.herokuapp.com/) 
+- ~~a replacement for moulberry's ah api (https://auctionmaster-api.herokuapp.com/)~~ complete! 
 
 ![](https://komarev.com/ghpvc/?username=aesthetic0001)
 ![](https://img.shields.io/badge/bad%20programmer-yes-success?style=flat-square)
