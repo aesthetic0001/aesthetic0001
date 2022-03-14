@@ -4,7 +4,10 @@
 
 - hypixel duels bots (sumibot) -> being rewritten  
 - hypixel auction flipper (Auction Master)  
+- binmaster - a revised version of auctionmaster focused on snipes
 - ~~a replacement for moulberry's ah api (https://auctionmaster-api.herokuapp.com/)~~ complete! 
+
+Discord: aesthetic#0453  
 
 ![](https://komarev.com/ghpvc/?username=aesthetic0001)
 ![](https://img.shields.io/badge/bad%20programmer-yes-success?style=flat-square)
