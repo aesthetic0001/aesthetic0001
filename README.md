@@ -7,7 +7,7 @@
 ![testbeforeprod](https://img.shields.io/badge/test%20before%20release-404%20not%20found!-red)
 
 ## Current Project
-[binmaster](https://binmaster.pro), a collection of automation tools for Hypixel's Skyblock gamemode. Written in node.js and golang, built with mineflayer, express, next.js, socket.io, firebase, and more.
+[binmaster](https://binmaster.pro), a collection of automation tools for Hypixel's Skyblock gamemode. Written with node.js and golang, built with mineflayer, express, next.js, socket.io, firebase, and more.
 
 ## Cool past projects
 - [2Lazy2Flip](https://github.com/aesthetic0001/2Lazy2Flip) - A tool used to facilitate flipping in Hypixel Skyblock with a useful web interface, written in node.js and built with socket.io and node.js
