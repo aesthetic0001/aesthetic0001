@@ -22,6 +22,7 @@
 - Python
 - Go
 - c++ (only for competitive programming)
+- rust (learning!)
 
 ### You can contact me on Discord @ aes512
 
